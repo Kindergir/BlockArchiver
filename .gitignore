@@ -1,5 +1,13 @@
-bin/
-obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+# git ignore file
+
+# Idea
+.idea
+.vs
+
+# Binaries
+[Bb]in
+obj
+packages
+
+# Nuget
+*.nupkg
